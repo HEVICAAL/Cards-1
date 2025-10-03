@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\hevic\\source\\repos\\Cards\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8B05275-6BF6-48BF-82D3-5BF2B593AC01}|Cards\\Cards.csproj|c:\\users\\hevic\\source\\repos\\cards\\cards\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{B8B05275-6BF6-48BF-82D3-5BF2B593AC01}|Cards\\Cards.csproj|solutionrelative:cards\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B8B05275-6BF6-48BF-82D3-5BF2B593AC01}|Cards\\Cards.csproj|c:\\users\\hevic\\source\\repos\\cards\\cards\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8B05275-6BF6-48BF-82D3-5BF2B593AC01}|Cards\\Cards.csproj|solutionrelative:cards\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,36 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\.gitignore",
-              "RelativeDocumentMoniker": "Cards\\.gitignore",
-              "ToolTip": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\.gitignore",
-              "RelativeToolTip": "Cards\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-03T05:07:20.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\App.razor",
-              "RelativeDocumentMoniker": "Cards\\App.razor",
-              "ToolTip": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\App.razor",
-              "RelativeToolTip": "Cards\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T03:55:44.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Cards\\Layout\\MainLayout.razor",
@@ -87,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "NavVertical.razor",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\Shared\\NavVertical.razor",
               "RelativeDocumentMoniker": "Cards\\Shared\\NavVertical.razor",
@@ -99,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\wwwroot\\css\\app.css",
               "RelativeDocumentMoniker": "Cards\\wwwroot\\css\\app.css",
@@ -111,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "Cards\\Pages\\Index.razor",
@@ -123,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NavHorizontal.razor",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\Shared\\NavHorizontal.razor",
               "RelativeDocumentMoniker": "Cards\\Shared\\NavHorizontal.razor",
@@ -135,20 +106,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Cards\\wwwroot\\index.html",
               "ToolTip": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\wwwroot\\index.html",
               "RelativeToolTip": "Cards\\wwwroot\\index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-10-03T02:49:37.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\App.razor",
+              "RelativeDocumentMoniker": "Cards\\App.razor",
+              "ToolTip": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\App.razor",
+              "RelativeToolTip": "Cards\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T03:55:44.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CardModule.razor",
               "DocumentMoniker": "C:\\Users\\hevic\\source\\repos\\Cards\\Cards\\Shared\\CardModule.razor",
               "RelativeDocumentMoniker": "Cards\\Shared\\CardModule.razor",
