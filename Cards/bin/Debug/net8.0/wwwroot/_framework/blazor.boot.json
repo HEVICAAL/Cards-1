@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Cards",
   "resources": {
-    "hash": "sha256-lNDG0mdqi+7OImcTZRerrt897kCGpqoupHDn8iWJjZ0=",
+    "hash": "sha256-aad8RciiCFgbXUvtHowFkvtGJoZAdXWJBaKUOzTeujA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-D0bzod5lwwSzPR43JC8TTCcZKw+3jIHOk8CZFCRj5is="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-8qWtIcy8fV43tlcx4DxsF45RlkcfK6588vVoxF7be2E=",
       "netstandard.wasm": "sha256-eOgz2RiO4YaPLOMIGgVLNrcfsQhmLQJzR0N7Pu2teXc=",
       "System.Private.CoreLib.wasm": "sha256-F8T63QCIbMPXPQPqTcuyBAw+oVvZSrWjy88j7fiJQZ4=",
-      "Cards.wasm": "sha256-astFGYC9RFJOO9hPvPqZ4d34YDFttumqsIBohbcDJ7c="
+      "Cards.wasm": "sha256-xxI4XBw79TxOQ5TTbAeNTPfbeboyHKB3wf89a8Mp3Nw="
     },
     "pdb": {
-      "Cards.pdb": "sha256-eHLLoG0Nc7AgoYC6LeezuwwkjG3q3mAtx1coqadklFg="
+      "Cards.pdb": "sha256-cq9ZRn22vtn+/65R8LBBBvo+6QzArIwcBVarR7fu/K0="
     }
   },
   "cacheBootResources": true,

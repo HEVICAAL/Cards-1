@@ -1031,6 +1031,7 @@ C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\Cards.dll
 C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\refint\Cards.dll
 C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\Cards.pdb
 C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\ref\Cards.dll
-C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\wq1h47mv5u-iqzyqmr7es.gz
-C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\9athyb2ptt-s7yt8mgg61.gz
-C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\pax7legm3e-eivs5pfmmc.gz
+C:\Users\hevic\source\repos\Cards\Cards\bin\Debug\net8.0\_framework\blazor.boot.json
+C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\wq1h47mv5u-7k7ex1t7ds.gz
+C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\9athyb2ptt-mif0mb6v9c.gz
+C:\Users\hevic\source\repos\Cards\Cards\obj\Debug\net8.0\compressed\pax7legm3e-dg0xi6llg1.gz

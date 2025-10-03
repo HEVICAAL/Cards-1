@@ -1,0 +1,12 @@
+# Archivos y carpetas generados por Visual Studio y .NET
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Archivos de publicación
+**/publish/
+
+# Otros
+*.DS_Store

@@ -1021,9 +1021,6 @@ C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\srknph4eqn
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\szw0adb05m-tptq2av103.gz
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\bjw7ddbec8-lfu7j35m59.gz
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\go2r1cv5m4-oyz0vx2fzb.gz
-C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\wq1h47mv5u-qohvgg56pn.gz
-C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\9athyb2ptt-j0bv6yokfa.gz
-C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\pax7legm3e-31l3dmo4xo.gz
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\staticwebassets.build.json
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\staticwebassets.build.json.cache
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\staticwebassets.development.json
@@ -1033,3 +1030,7 @@ C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\Cards.dll
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\refint\Cards.dll
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\Cards.pdb
 C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\ref\Cards.dll
+C:\Users\hevic\source\repos\Cards\Cards\bin\Release\net8.0\_framework\blazor.boot.json
+C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\wq1h47mv5u-bzl4y2knto.gz
+C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\9athyb2ptt-b42c6hj458.gz
+C:\Users\hevic\source\repos\Cards\Cards\obj\Release\net8.0\compressed\pax7legm3e-sd2ki91u12.gz
