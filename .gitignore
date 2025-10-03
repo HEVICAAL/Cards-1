@@ -5,8 +5,5 @@
 *.user
 *.suo
 
-# Archivos de publicación
-**/publish/
-
-# Otros
-*.DS_Store
+# Archivos de publicaciÃ³n
+**/publish/ 
