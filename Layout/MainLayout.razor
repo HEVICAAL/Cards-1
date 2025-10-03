@@ -1,0 +1,36 @@
+﻿@inherits LayoutComponentBase
+
+<div class="page">
+    <div class="sidebar">
+        @if (isVertical)
+        {
+            <NavVertical />
+        }
+    </div>
+
+    <main>
+        @if (!isVertical)
+        {
+            <NavHorizontal />
+        }
+        <div class="content px-4">
+            @Body
+        </div>
+    </main>
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">x</a>
+</div>
+
+@code {
+    private bool isVertical = true;
+
+    // You could add a button or other UI element to toggle this
+    private void ToggleNavigation()
+    {
+        isVertical = !isVertical;
+    }
+}
